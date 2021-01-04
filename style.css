@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Open+Sans&family=Raleway&display=swap');
+.logo{
+width: 105px;
+height: 105x;
+float: left;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+h1{
+font-family: 'Dosis', sans-serif;
+}
+h2{
+font-family: 'Open Sans', sans-serif;
+}
+html.home{
+  background-image: url('4 seasons.jpg');
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.textblock{
+  background-color: rgba(199, 191, 191, 0.432);
+  margin-right: 0px;
+  padding: 15px;
+  text-align: justify;
+  font-family: 'Raleway', sans-serif;
